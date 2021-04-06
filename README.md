@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Nice to meet you! I'm Ash, a UK based Software Engineer.
+
+<h3>Projects</h3>
+<li>
+  <ul><a src=https://github.com/ashryan/BitTracker>BitTracker</a> - A Crypto Currency portfolio tracker built using React
+
 <!--
 **ashryan/ashryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
