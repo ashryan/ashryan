@@ -22,14 +22,14 @@ Nice to meet you! I'm Ash, a UK based Software Engineer.
   </ul>
   
  <h4>A Little About Me</h4>
- <p> I love all things JavaScript, particulary React and Node. I build full stack web applications and always strive to improve my knowledge by bulding cool projects. I'm currently teaching myself C# and ASP.NET</p>
+ <p> I love all things JavaScript, particularly React and Node. I build full stack web applications and always strive to improve my knowledge by bulding cool projects. I'm currently teaching myself C# and ASP.NET</p>
  <p>When I'm not coding, I volunteer for a humanitarian organisation that builds schools, wells and hospitals in Africa and Asia. I'm also interested in Blockchain technology.</p>
   
  <h4>Experience</h4>
  <ul>
   <li>Business Intelligence Analyst - UWT - Aug 2020 - Jan 2021</li>
   <li>Recruitment Consultant - Service Care Solutions - Jan 2020 - Aug 2020</li>
-  <li>Buiess Intelligence Anaylyst - HMRC - Jan 2018 - Jan 2020</li>
+  <li>Businesses Intelligence Analyst - HMRC - Jan 2018 - Jan 2020</li>
   <li>Customer Service Advisor - DVLA - Sept 2016 - Jan 2018</li>
   </ul>
   
