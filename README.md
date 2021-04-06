@@ -3,8 +3,11 @@
 Nice to meet you! I'm Ash, a UK based Software Engineer.
 
 <h3>Projects</h3>
-<li>
-  <ul><a src=https://github.com/ashryan/BitTracker>BitTracker</a> - A Crypto Currency portfolio tracker built using React
+<ul>
+  <li><a target=_blank href=https://github.com/ashryan/BitTracker>BitTracker</a> - A Crypto Currency portfolio tracker built using React, Firebase and the Coin Gecko API</li>
+  <li><a target=_blank href=https://github.com/ashryan/block-runner>Block Runner</a> - A browser game built in vanilla JavaScript</li>
+  <li><a target=_blank href=https://github.com/ashryan/morse-translator>Morse Translator</a> - A Morse to English and English to Morse translater built in JS</li>
+  <li><a target=_blank href=https://github.com/ashryan/calculator>JS Calculator</a> - A browser based calculator built in JS. 
 
 <!--
 **ashryan/ashryan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
