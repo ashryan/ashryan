@@ -2,7 +2,7 @@
 
 Nice to meet you! I'm Ash, a UK based Software Engineer.
 
-📘 I've recently graduated from a code bootcamp where I've learnt:
+📘 I'm a Software Development Coach at nology.io where I teach:
 <ul>
   <li>HTML & CSS</li>
   <li>JavaScript</li>
@@ -22,7 +22,7 @@ Nice to meet you! I'm Ash, a UK based Software Engineer.
   </ul>
   
  <h4>A Little About Me</h4>
- <p> I love all things JavaScript, particularly React and Node. I build full stack web applications and always strive to improve my knowledge by building cool projects. I'm currently teaching myself C# and ASP.NET</p>
+ <p> I love all things JavaScript, particularly React and Node. I build full stack web applications and always strive to improve my knowledge by building cool projects. I'm currently teaching myself Java and Spring Boot</p>
  <p>When I'm not coding, I volunteer for a humanitarian organisation that builds schools, wells and hospitals in Africa and Asia.
  </p>
  
