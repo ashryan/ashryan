@@ -22,7 +22,7 @@ Nice to meet you! I'm Ash, a UK based Software Engineer.
   </ul>
   
  <h4>A Little About Me</h4>
- <p> I love all things JavaScript, particularly React and Node. I build full stack web applications and always strive to improve my knowledge by building cool projects. I'm currently teaching myself Java and Spring Boot</p>
+ <p> I love all things JavaScript, particularly React and Node. I build full stack web applications and always strive to improve my knowledge by building cool projects. I'm currently teaching myself Java and Spring Boot.</p>
  <p>When I'm not coding, I volunteer for a humanitarian organisation that builds schools, wells and hospitals in Africa and Asia.
  </p>
  
