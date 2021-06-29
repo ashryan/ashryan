@@ -28,6 +28,7 @@ Nice to meet you! I'm Ash, a UK based Software Engineer.
  
  <h4>Experience</h4>
  <ul>
+  <li>Junior Software Development Coach - Apr 2021 - Present</li>
   <li>Business Intelligence Analyst - UWT - Aug 2020 - Jan 2021</li>
   <li>Recruitment Consultant - Service Care Solutions - Jan 2020 - Aug 2020</li>
   <li>Business Intelligence Analyst - HMRC - Jan 2018 - Jan 2020</li>
