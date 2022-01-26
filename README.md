@@ -7,9 +7,9 @@ Nice to meet you! I'm Ash, a UK based Software Engineer.
   <li>HTML & CSS</li>
   <li>JavaScript</li>
   <li>TypeScript</li>
-  <li>React & React Router</li>
-  <li>Angular</li>
-  <li>Node</li>
+  <li>React</li>
+  <li>Java</li>
+  <li>Spring</li>
  </ul> 
 
 <h4>Personal Projects</h4>
@@ -22,13 +22,14 @@ Nice to meet you! I'm Ash, a UK based Software Engineer.
   </ul>
   
  <h4>A Little About Me</h4>
- <p> I love all things JavaScript, particularly React and Node. I build full stack web applications and always strive to improve my knowledge by building cool projects. I'm currently teaching myself Java and Spring Boot.</p>
+ <p> I love all things JavaScript, particularly React and Node. I build full stack web applications and always strive to improve my knowledge by building cool projects.</p>
  <p>When I'm not coding, I volunteer for a humanitarian organisation that builds schools, wells and hospitals in Africa and Asia.
  </p>
  
  <h4>Experience</h4>
  <ul>
-  <li>Junior Software Development Coach - Apr 2021 - Present</li>
+  <li>Software Development Coach - Nov 2021 - Present</li>
+  <li>Junior Software Development Coach - Apr 2021 - Nov 2021</li>
   <li>Business Intelligence Analyst - UWT - Aug 2020 - Jan 2021</li>
   <li>Recruitment Consultant - Service Care Solutions - Jan 2020 - Aug 2020</li>
   <li>Business Intelligence Analyst - HMRC - Jan 2018 - Jan 2020</li>
