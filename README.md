@@ -10,12 +10,12 @@ Nice to meet you! I'm Ash, a UK based Software Engineer.
   <li>React</li>
   <li>Java</li>
   <li>Spring</li>
+  <li>Terraform</li>
+  <li>AWS</li>
  </ul> 
 
-
-  
  <h4>A Little About Me</h4>
- <p> I love all things JavaScript, particularly React and Node. I build full stack web applications and always strive to improve my knowledge by building cool projects.</p>
+ <p> I love all things Java and Spring. I build full stack web applications and always strive to improve my knowledge by building cool projects.</p>
  <p>When I'm not coding, I volunteer for a humanitarian organisation that builds schools, wells and hospitals in Africa and Asia.
  </p>
  
