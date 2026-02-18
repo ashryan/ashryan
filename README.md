@@ -12,14 +12,7 @@ Nice to meet you! I'm Ash, a UK based Software Engineer.
   <li>Spring</li>
  </ul> 
 
-<h4>Personal Projects</h4>
 
-<ul>
-  <li> 💻 <a target=_blank href=https://github.com/ashryan/BitTracker>BitTracker</a> - A Crypto Currency portfolio tracker built using React, Firebase and the Coin Gecko API</li>
-  <li>💻 <a target=_blank href=https://github.com/ashryan/block-runner>Block Runner</a> - A browser game built in vanilla JavaScript</li>
-  <li> 💻 <a target=_blank href=https://github.com/ashryan/morse-translator>Morse Translator</a> - A Morse to English and English to Morse translater built in JS</li>
-  <li> 💻 <a target=_blank href=https://github.com/ashryan/calculator>JS Calculator</a> - A browser based calculator built in JS. </li>
-  </ul>
   
  <h4>A Little About Me</h4>
  <p> I love all things JavaScript, particularly React and Node. I build full stack web applications and always strive to improve my knowledge by building cool projects.</p>
@@ -40,7 +33,14 @@ Nice to meet you! I'm Ash, a UK based Software Engineer.
   </ul>
   
   Feel free to reach out to me for a chat via <a target=_blank href="mailto: ashleeryan@outlook.com">email 😄.
+<!-- <h4>Personal Projects</h4>
 
+<ul>
+  <li> 💻 <a target=_blank href=https://github.com/ashryan/BitTracker>BitTracker</a> - A Crypto Currency portfolio tracker built using React, Firebase and the Coin Gecko API</li>
+  <li>💻 <a target=_blank href=https://github.com/ashryan/block-runner>Block Runner</a> - A browser game built in vanilla JavaScript</li>
+  <li> 💻 <a target=_blank href=https://github.com/ashryan/morse-translator>Morse Translator</a> - A Morse to English and English to Morse translater built in JS</li>
+  <li> 💻 <a target=_blank href=https://github.com/ashryan/calculator>JS Calculator</a> - A browser based calculator built in JS. </li>
+  </ul> -->
 
  
 <!--
