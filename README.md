@@ -21,7 +21,8 @@ Nice to meet you! I'm Ash, a UK based Software Engineer.
  
  <h4>Experience</h4>
  <ul>
-  <li>Principal Software Development Coach - Nology - Jan 2026 - Present</li>
+  <li>Lead AI Technical Instructor - Sparta Global - July 2026 - Present</li>
+  <li>Principal Software Development Coach - Nology - Jan 2026 - July 2026</li>
   <li>Java Developer - HMRC - Jan 2024 - Jan 2026</li>
   <li>Principal Software Development Coach - Nology - Jan 2023 - Aug 2023</li>
   <li>Software Development Coach - Nology - Nov 2021 - Jan 2023/li>
