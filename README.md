@@ -2,17 +2,7 @@
 
 Nice to meet you! I'm Ash, a UK based Software Engineer.
 
-📘 I'm the Lead Software Development Coach at nology.io where I teach:
-<ul>
-  <li>HTML & CSS</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>React</li>
-  <li>Java</li>
-  <li>Spring</li>
-  <li>Terraform</li>
-  <li>AWS</li>
- </ul> 
+📘 I'm a Lead AI Technical Instructor at nology.io where I teach all things Software Dev and AI.
 
  <h4>A Little About Me</h4>
  <p> I love all things Java and Spring. I build full stack web applications and always strive to improve my knowledge by building cool projects.</p>
